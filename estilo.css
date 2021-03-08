@@ -1,0 +1,155 @@
+.a1
+{
+ font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+    font-family: monospace;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    color: #3ADEFF;
+    text-align:center;
+    word-spacing: 6px
+}
+.a2
+{
+ color: #b80935;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:440px;
+	left:5%;
+	height:200px;
+	width:400px;
+	border-radius:20px;
+}
+.a3
+{
+background-color:yellow;
+	font-family:arial;
+	position:absolute;
+	top:100px;
+	left:5%;
+	height:350px;
+	width:360px;
+	border-radius:20px;
+}
+.b1
+{
+background-color:;
+	font-family:arial;
+	position:absolute;
+	top:110px;
+	left:42%;
+	height:380px;
+	width:310px;
+	border-radius:15px;
+}
+.p1
+{
+ background color: yellow;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:25px;
+	left:45%;
+	height:200px;
+	width:400px;
+	border-radius:20px;
+}
+.p2
+{
+ color: yellow;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:440px;
+	left:5%;
+	height:200px;
+	width:400px;
+	border-radius:20px;
+}
+.p3{
+	 background-color: green;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:200px;
+	left:5%;
+	height:200px;
+	width:400px;
+	border-radius:20px;
+}
+.p4{
+	background-color: green;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:200px;
+	left:27%;
+	height:200px;
+	width:400px;
+	border-radius:20px;
+
+}
+.p5{
+	background-color: green;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:200px;
+	left:50%;
+	height:200px;
+	width:400px;
+	border-radius:20px;
+
+}
+.p6{
+	background-color: green;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:200px;
+	left:70%;
+	height:200px;
+	width:300px;
+	border-radius:20px;
+
+}
+.p7{
+	background-color: green;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:300px;
+	left:5%;
+		height:130px;
+	width:350px;
+	border-radius:20px;
+
+}
+.p8{
+	background-color: green;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:300px;
+	left:27%;
+		height:130px;
+	width:350px;
+	border-radius:20px;
+
+}
+.p9{
+	background-color: green;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:300px;
+	left:50%;
+	height:130px;
+	width:573px;
+	border-radius:20px;
+
+}
+
