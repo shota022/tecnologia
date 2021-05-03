@@ -1,0 +1,57 @@
+.p1
+{
+ background color: yellow;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:25px;
+	left:45%;
+	height:200px;
+	width:400px;
+	border-radius:20px;
+}
+.p2
+{
+ color: yellow;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:440px;
+	left:5%;
+	height:200px;
+	width:400px;
+	border-radius:20px;
+}
+.p3{
+	 background-color: green;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:200px;
+	left:5%;
+	height:200px;
+	width:400px;
+	border-radius:20px;
+}
+.p4{
+	 background-color: green;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:200px;
+	left:15%;
+	height:200px;
+	width:400px;
+	border-radius:20px;
+}
+.p5{
+	 background-color: green;
+font-size: 25px;
+	font-family:monospace;
+	position:absolute;
+	top:200px;
+	left:25%;
+	height:200px;
+	width:400px;
+	border-radius:20px;
+}
